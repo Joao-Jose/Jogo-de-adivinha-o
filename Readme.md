@@ -1,1 +1,1 @@
-"# Calculadora-de-IMC" >> README.md
+"# Jogo de adivinhação" >> README.md
